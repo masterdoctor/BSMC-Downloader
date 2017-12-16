@@ -1,10 +1,22 @@
 {
-  "name": "Debug",
-  "versions": [
+  "repository": {
+    "name": "BSMC Standard",
+    "version": "1.0.0-SNAPSHOT",
+    "version_code": 1,
+    "description": "The standard software repository for BSMC.",
+    "maintainer": "SamJakob"
+  },
+  "plugins":
+  [
     {
-      "version_code": 1,
-      "version": "1.0.0-SNAPSHOT",
-      "url": "http://mirror.clout-team.com/debug.jar"
+      "name": "Debug",
+      "versions": [
+        {
+          "version_code": 1,
+          "version": "1.0.0-SNAPSHOT",
+          "url": "http://mirror.clout-team.com/debug.jar"
+        }
+      ]
     }
   ]
 }
