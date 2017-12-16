@@ -1,15 +1,18 @@
 {
   "repository": {
     "name": "BSMC Standard",
-    "version": "1.0.0-SNAPSHOT",
-    "version_code": 1,
     "description": "The standard software repository for BSMC.",
-    "maintainer": "SamJakob"
+    "maintainer": "SamJakob",
+    "version": "1.0.0-SNAPSHOT",
+    "version_code": 1
   },
   "plugins":
   [
     {
       "name": "Debug",
+      "description": "A temporary debug plugin.",
+      "author": "SamJakob",
+      "releaser": "SamJakob",
       "versions": [
         {
           "version_code": 1,
