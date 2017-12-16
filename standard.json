@@ -4,7 +4,7 @@
     "description": "The standard software repository for BSMC.",
     "maintainer": "SamJakob",
     "version": "1.0.0-ALPHA-1",
-    "version_code": 1
+    "version_code": 2
   },
   "plugins":
   [
