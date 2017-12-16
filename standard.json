@@ -1,0 +1,10 @@
+{
+  "name": "Debug",
+  "versions": [
+    {
+      "version_code": 1,
+      "version": "1.0.0-SNAPSHOT",
+      "url": "http://mirror.clout-team.com/debug.jar"
+    }
+  ]
+}
