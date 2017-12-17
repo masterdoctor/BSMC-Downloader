@@ -31,6 +31,11 @@
           "version_code": 1,
           "version": "1.6.1",
           "url": "http://mirror.clout-team.com/Vault.jar"
+        },
+        {
+          "version_code": 2,
+          "version": "1.6.2",
+          "url": "http://mirror.clout-team.com/Vault.jar"
         }
       ]
     }
