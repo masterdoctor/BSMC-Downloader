@@ -3,8 +3,8 @@
     "name": "BSMC Standard",
     "description": "The standard software repository for BSMC.",
     "maintainer": "SamJakob",
-    "version": "1.0.0-ALPHA-2",
-    "version_code": 3
+    "version": "1.0.0-ALPHA-3",
+    "version_code": 4
   },
   "plugins":
   [
